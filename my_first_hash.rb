@@ -1,5 +1,5 @@
 def my_hash
-  stands = {"Jotaro" => "Star Platinum"
+  stands = {"Jotaro" => "Star Platinum"}
   
 end
 
