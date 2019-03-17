@@ -1,6 +1,5 @@
 def my_hash
   stand = {"Jotaro" => "Star Platinum"
-
   
 end
 
